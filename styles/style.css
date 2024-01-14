@@ -10,6 +10,7 @@
 }
 main{
     max-width: 1440px;
+    margin: 0 auto;
 }
 .primary-btn{
     padding: 10px 24px;
@@ -178,7 +179,8 @@ i.fa-solid.fa-star, .fa-star-half-stroke{
     color: var(--Orange-60, #FB8200);
     width: 11.068px;
     height: 10.316px;
-    margin-left: 3px;
+    margin-left: 6px;
+    
 }
 .rating-point{
     color: var(--gray-80, #5E6366);
