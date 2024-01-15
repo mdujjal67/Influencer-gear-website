@@ -76,6 +76,9 @@ nav {
     font-size: 16px;
     font-weight: 600;
 }
+.nav-items ul li a{
+    color: #3A3A3A ;
+}
 .banner{
     display: flex;
     margin-top: 50px;
